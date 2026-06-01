@@ -1,5 +1,6 @@
 # TestAutomationUiWeb
-## 1. assignment-api-tests project
+> **Historical reference project.** Implemented as a take-home assignment in 2021 to demonstrate REST API test automation using Java, Cucumber BDD, and Rest Assured.
+
 ========================================
 This is automation suite is designed to test the Swagger Pet store POST /pet request (Additonal services have also been included but were not essential).
 
